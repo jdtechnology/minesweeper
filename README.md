@@ -29,6 +29,7 @@ You can find an example of a working implementation at  https://wix.github.io/m
 
 **Note that it does not support a large board (even 100x100), and looks quite ugly (we didn’t want to give you any design ideas).**
 
+### Got any Questions?
 Questions about the task can submitted as an issue in the repository: https://github.com/wix/minesweeper/issues 
 
 ### Submitting Your Solution
