@@ -4,7 +4,7 @@ The task is to implement the classic minesweeper game in javascript.
 You can use either Angular 2, Angular 4 or ReactJS (not implemented here).
 The aim of the exercise is to test the coding standards so please make sure the code is organized and clean,
 
-Rules of the game:
+### Rules of the game:
 1.	Board should be of configurable width, height and mines number.
 2.	The board should support width and height of up to 300 (300x300 cells),
 3.	Should display an indication of the number of remaining flags above the board.
@@ -20,13 +20,19 @@ Rules of the game:
 7.	A flagged cell cannot be revealed (click does nothing) until the flag is removed.
 8.	If all mines are flagged correctly, you win.
 
-Bonus Tasks: 
+### Bonus Tasks: 
 1.	Add tests (specify in the readme.md file how can we run them)
 2.	Create a Superman mode that reveals the location of the flags (the working example mentioned below supports it)
 
-Working Example:
+### Working Example:
 You can find an example of a working implementation at  https://wix.github.io/minesweeper/ (the source is found at https://github.com/wix/minesweeper)
 
 **Note that it does not support a large board (even 100x100), and looks quite ugly (we didn’t want to give you any design ideas).**
 
 Questions about the task can submitted as an issue in the repository: https://github.com/wix/minesweeper/issues 
+
+### Submitting Your Solution
+Please upload your code to Github or Plunkr, it should include the sources as well as a runable example (as a Github Page in github.io or Plunkr), and send the link to your contact person at Wix
+
+**Good Luck!**
+
