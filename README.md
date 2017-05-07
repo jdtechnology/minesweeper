@@ -33,7 +33,8 @@ You can find an example of a working implementation at  https://wix.github.io/m
 Questions about the task can submitted as an issue in the repository: https://github.com/wix/minesweeper/issues 
 
 ### Submitting Your Solution
-Please upload your code to Github or Plunkr, it should include the sources as well as a runable example (as a Github Page in github.io or Plunkr), and send the link to your contact person at Wix
+Please upload your code to Github or Plunkr, it should include the sources as well as a runable example (as a Github Page in github.io or Plunkr), and send the link to your contact person at Wix.
+**Since many people are struggling with Github Pages, you can refer to the [following repository](https://github.com/carmelc/angular-cli-example) for an example with some explanations**
 
 **Good Luck!**
 
