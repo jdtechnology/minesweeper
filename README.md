@@ -22,7 +22,7 @@ The aim of the exercise is to test the coding standards so please make sure the 
 
 ### Bonus Tasks: 
 1.	Add tests (specify in the readme.md file how can we run them)
-2.	Create a Superman mode that reveals the location of the flags (the working example mentioned below supports it)
+2.	Create a Superman mode that reveals the location of the bombs (the working example mentioned below supports it)
 
 ### Working Example:
 You can find an example of a working implementation at  https://wix.github.io/minesweeper/ (the source is found at https://github.com/wix/minesweeper)
