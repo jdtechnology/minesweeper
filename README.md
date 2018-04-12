@@ -25,12 +25,12 @@ The aim of the exercise is to test the coding standards so please make sure the 
 2.	Create a Superman mode that reveals the location of the bombs (the working example mentioned below supports it)
 
 ### Working Example:
-You can find an example of a working implementation at  https://wix.github.io/minesweeper/ (the source is found at https://github.com/wix/minesweeper)
+You can find an example of a working implementation at  https://wix-incubator.github.io/minesweeper/ (the source is found at https://github.com/wix-incubator/minesweeper)
 
 **Note that it does not support a large board (even 100x100), and looks quite ugly (we didn’t want to give you any design ideas).**
 
 ### Got any Questions?
-Questions about the task can submitted as an issue in the repository: https://github.com/wix/minesweeper/issues 
+Questions about the task can submitted as an issue in the repository: https://github.com/wix-incubator/minesweeper/issues 
 
 ### Submitting Your Solution
 Please upload your code to Github or Plunkr, it should include the sources as well as a runable example (as a Github Page in github.io or Plunkr), and send the link to your contact person at Wix.
