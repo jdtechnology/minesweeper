@@ -1,7 +1,7 @@
 ## Wix Minesweeper Example
 This is a working example for a static Javascript minesweeper,
 The task is to implement the classic minesweeper game in javascript.
-You should use Angular 2+ (2-6) or ReactJS (not implemented here).
+You should use ReactJS (not implemented here).
 The aim of the exercise is to test the coding standards so please make sure the code is organized and clean,
 
 ### Rules of the game:
