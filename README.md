@@ -27,7 +27,7 @@ The aim of the exercise is to test the coding standards so please make sure the 
 ### Working Example:
 You can find an example of a working implementation at  https://wix-incubator.github.io/minesweeper/ (the source is found at https://github.com/wix-incubator/minesweeper)
 
-**Note that it does not support a large board (even 100x100), and looks quite ugly (we didn’t want to give you any design ideas).**
+**Note that it does not support a large board (even 100x100), not written in React and looks quite ugly (we didn’t want to give you any design ideas).**
 
 ### Got any Questions?
 Questions about the task can submitted as an issue in the repository: https://github.com/wix-incubator/minesweeper/issues 
